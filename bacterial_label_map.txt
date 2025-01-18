@@ -3,8 +3,10 @@
 2 Ascaris lumbricoides
 3 Escherichia coli
 4 Enterobius vermicularis
-5 Fasciola hepatica
-6 Hymenolepis
-7 Schistosoma
-8 Taenia spp.
-9 Trichuris trichiura
+5 Escherichia
+6 Fasciola hepatica
+7 Hymenolepis
+8 Schistosoma
+9 Taenia spp.
+10 Trichuris trichiura
+11 ecoli

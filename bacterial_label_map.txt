@@ -1,0 +1,10 @@
+0 Background
+1 Ancylostoma spp.
+2 Ascaris lumbricoides
+3 Escherichia coli
+4 Enterobius vermicularis
+5 Fasciola hepatica
+6 Hymenolepis
+7 Schistosoma
+8 Taenia spp.
+9 Trichuris trichiura

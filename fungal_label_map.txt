@@ -1,0 +1,5 @@
+0 Candida albicans
+1 Aspergillus niger
+2 Trichophyton rubrum
+3 Trichophyton mentagrophytes
+4 Epidermophyton floccosum

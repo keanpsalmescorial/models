@@ -1,0 +1,3 @@
+0 Malaria (Parasitized)
+1 Malaria (Uninfected)
+
